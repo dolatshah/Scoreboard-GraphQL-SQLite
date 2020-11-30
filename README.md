@@ -75,7 +75,7 @@ mutation {
 }
 ```
 
-#update score
+## update score
 ```bash
 
 mutation updateScore {
